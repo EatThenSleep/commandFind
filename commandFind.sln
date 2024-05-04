@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "commandFind", "commandFind\commandFind.csproj", "{94B9DAF0-3EB5-405D-9EDD-3C47AEA8703E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "commandFindTests", "commandFindTests\commandFindTests.csproj", "{70E5D06F-8420-48B6-AA51-0E17A7445A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B9DAF0-3EB5-405D-9EDD-3C47AEA8703E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B9DAF0-3EB5-405D-9EDD-3C47AEA8703E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B9DAF0-3EB5-405D-9EDD-3C47AEA8703E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B9DAF0-3EB5-405D-9EDD-3C47AEA8703E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E5D06F-8420-48B6-AA51-0E17A7445A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E5D06F-8420-48B6-AA51-0E17A7445A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E5D06F-8420-48B6-AA51-0E17A7445A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E5D06F-8420-48B6-AA51-0E17A7445A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800F32DE-3088-4529-821A-03BE5D356BD5}
+	EndGlobalSection
+EndGlobal

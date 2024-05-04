@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "commandFind": {
+      "commandName": "Project",
+      "commandLineArgs": "MACBETH *.txt /c"
+    }
+  }
+}
